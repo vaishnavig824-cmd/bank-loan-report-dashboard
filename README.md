@@ -74,5 +74,6 @@ All three pages share common slicers for State, Grade, Purpose, and Good vs Bad 
 
 ## Snapshots of the Dashboard
 [Summary Dashboard](https://github.com/vaishnavig824-cmd/bank-loan-report-dashboard/blob/main/Snapshots%20of%20the%20Dashboard/Screenshot%201%20(Summary).png)
-[Overview Dashbaord](
+[Overview Dashbaord](https://github.com/vaishnavig824-cmd/bank-loan-report-dashboard/blob/main/Snapshots%20of%20the%20Dashboard/Screenshot%202%20(Overview).png)
+[Details Dashbaord](
 
