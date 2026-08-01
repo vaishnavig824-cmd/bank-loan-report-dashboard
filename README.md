@@ -73,5 +73,6 @@ All three pages share common slicers for State, Grade, Purpose, and Good vs Bad 
 - The dashboard enables the bank to monitor MTD and MoM trends on every core KPI, allowing faster reaction to month-over-month changes in lending performance
 
 ## Snapshots of the Dashboard
-(https://github.com/vaishnavig824-cmd/bank-loan-report-dashboard/blob/main/Snapshots%20of%20the%20Dashboard/Screenshot%201%20(Summary).png)
+[Summary Dashboard](https://github.com/vaishnavig824-cmd/bank-loan-report-dashboard/blob/main/Snapshots%20of%20the%20Dashboard/Screenshot%201%20(Summary).png)
+[Overview Dashbaord](
 
