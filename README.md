@@ -27,7 +27,6 @@ The raw loan data was first loaded and queried in SQL Server for cleaning, explo
 - Creating KPI cards and new card visuals
 - Building charts and formatting visuals
 - Creating DAX measures and functions
-- Page navigation buttons
 
 ## Data Source
 
