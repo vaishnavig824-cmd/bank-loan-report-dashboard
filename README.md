@@ -42,12 +42,12 @@ To build a 3-page interactive Power BI report that gives the bank real-time visi
 
 ### Walkthrough of Key Visuals
 
-**Page 1 â€” Summary**
+**Page 1 ” Summary**
 - KPI cards for Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average DTI, each with MTD (Month-to-Date) and MoM (Month-over-Month) change indicators
 - Good Loan vs Bad Loan donut charts showing application percentage, funded amount, and received amount for each category
 - A Loan Status grid view summarizing Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI, broken down by Charged Off, Current, and Fully Paid status
 
-**Page 2 â€” Overview**
+**Page 2 ” Overview**
 - Line chart of Total Loan Applications by Month to identify seasonality and long-term lending trends
 - Filled map of Total Loan Applications by State to spot regions with high lending activity
 - Donut chart of Total Loan Applications by Term (36 vs 60 months)
@@ -55,7 +55,7 @@ To build a 3-page interactive Power BI report that gives the bank real-time visi
 - Bar chart of Total Funded Amount by Purpose (debt consolidation, credit card, home improvement, etc.)
 - Tree map of Total Funded Amount by Home Ownership (rent, mortgage, own)
 
-**Page 3 â€” Details**
+**Page 3 ” Details**
 - A comprehensive data grid showing loan-level details: ID, Purpose, Home Ownership, Grade, Sub Grade, Issue Date, Funded Amount, Interest Rate, Installment, and Amount Received
 - Acts as a one-stop view for anyone who wants to inspect individual loan records rather than aggregated numbers
 
